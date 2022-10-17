@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @micoamazona
 - 👀 I’m interested in travelling and video games
-- 🌱 I’m currently learning java pograming
+- 🌱 I’m currently learning java pogramming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
